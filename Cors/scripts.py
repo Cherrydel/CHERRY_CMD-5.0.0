@@ -11,22 +11,22 @@ def scrolsys():
     except:
         print ( " NO SYS-GRF CMD " )
 
-#try:
-import time
-print ("\n Проверка системы PIP... ")
-time.sleep(3.05)
-from colorama import Fore, Back, Style
-from tqdm import tqdm
-import os
-from requests import *
-from pyfiglet import *
-from threading import *
-import sys
-from Cors.Setingdel.Coming import *
-print (Fore.GREEN + " SCRLIC CMD 5.0.0. INTROUND 1244321 Instans log.")
-print (Fore.GREEN + " Успешно... \n")
+try:
+    import time
+    print ("\n Проверка системы PIP... ")
+    time.sleep(3.05)
+    from colorama import Fore, Back, Style
+    from tqdm import tqdm
+    import os
+    from requests import *
+    from pyfiglet import *
+    from threading import *
+    import sys
+    from Cors.Setingdel.Coming import *
+    print (Fore.GREEN + " SCRLIC CMD 5.0.0. INTROUND 1244321 Instans log.")
+    print (Fore.GREEN + " Успешно... \n")
 
-while True:
+    while True:
         bootstart = input ( Fore.RED + " SYS/ [ " + ST1 + " [COM] ] ")
         if bootstart == ST1:
             print (" Проверка файлов SYS-CMD. ")
@@ -55,7 +55,7 @@ while True:
         else:
             print (" [ NO COMAND ] \n")
 
-#except:
-    #from Cors.Setingdel.install import *
-    #print ("\n ( ERROR ) ->  Не хватает файлов PIP. Или не верно указана дериктория. \n")
-    #input ( "\n \n [ ENTER ] -> EXIT " )
+except:
+    from Cors.Setingdel.install import *
+    print ("\n ( ERROR ) ->  Не хватает файлов PIP. Или не верно указана дериктория. \n")
+    input ( "\n \n [ ENTER ] -> EXIT " )
