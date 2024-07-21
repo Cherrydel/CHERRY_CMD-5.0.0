@@ -1,0 +1,30 @@
+Cherry.sys STR 105 build-#15 version-4.7.5. sys-del_version 2.0.0. @deliex  |
+ ██████╗██╗  ██╗███████╗██████╗ ██████╗ ██╗   ██╗███████╗██╗   ██╗███████╗  |
+██╔════╝██║  ██║██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝╚██╗ ██╔╝██╔════╝  |
+██║     ███████║█████╗  ██████╔╝██████╔╝ ╚████╔╝ ███████╗ ╚████╔╝ ███████╗  |
+██║     ██╔══██║██╔══╝  ██╔══██╗██╔══██╗  ╚██╔╝  ╚════██║  ╚██╔╝  ╚════██║  |
+╚██████╗██║  ██║███████╗██║  ██║██║  ██║   ██║██╗███████║   ██║   ███████║  |
+ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝╚═╝╚══════╝   ╚═╝   ╚══════╝  |
+-----------------------------------------------------------------------------
+        LOG-SYSTEM Информация и ключи доступа к системе Deliex.DEL          #
+_____________________________________________________________________________
+  #.Name sys                          |  #.Log system info code             |
+                                      |                                     |
+ ID. >>>                              | 17082003@deliex.com                 |
+                                      |                                     |
+ SYS-LOG. >>>                         | 5.7.9                               |
+                                      |                                     |
+ SDNFG. >>>                           | 1537664523#server.del               |
+                                      |                                     |
+ Structure. >>>                       | 105 sys [ON]                        |
+____________________________________________________________________________|
+
+
+[ IMPORTANT ]
+================================================================================
+We would also like to draw your attention to the project files. Changing data in all files by,
+Setingdel/Coming.py . It is strictly forbidden. The CHERRY_DEL code belongs entirely to Nikolai Nikitich Sbitnev.
+Files can only be changed by Administrators no higher than rank 7.
+Also, support does not have the right to change your files. Their job is to guide you through the system.
+
+================================================================================
