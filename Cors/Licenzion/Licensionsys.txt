@@ -1,5 +1,0 @@
-======================================================
-
-CHERRY_DEL TERMINAL system administration software for embedded systems.
-
-======================================================
